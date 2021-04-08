@@ -1,0 +1,51 @@
+@media(max-width: 1024px){
+    .instagram-wrapper{
+        width: 50%;
+    }
+}
+
+@media (max-width: 650px){
+
+    body{
+        background-color: #fff;
+    }
+
+    .group .instagram-logo{
+        height: 3.5rem;
+        margin-top: -10px;
+    }
+
+    .img-transition{
+        display: none;
+    }
+
+    .foto2{
+        display: none;
+    }
+
+    .group{
+        border: none;
+        margin-top: -40px;
+        padding-top: 0;
+    }
+
+    .instagram-wrapper{
+        width: 90%;
+    }
+
+    .instagram-phone{
+        display: none;
+    }
+
+    .instagram-continue{
+        width: 100%;
+    }
+    
+.not-account{
+    margin-top: 10px;
+}
+
+    .rodape2{
+        flex-direction: column;
+    }
+}
